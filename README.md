@@ -53,5 +53,6 @@
 </details>
 
 [website]: https://Malik.codes
+[webdevplaylist]: https://Malik.codes
 [linkedin]: https://linkedin.com/in/malik-altawati
 
