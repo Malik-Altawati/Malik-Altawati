@@ -8,11 +8,11 @@
 - ⚡ Fun fact: I love food / drinks
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=malik-altawati&" alt="malik-altawati" />
-<hr>
+<br />
 <p>
 <img align="left" alt="Malik Altawati's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Malik-Altawati&show_icons=true&hide_border=true&count_private=true&theme=radical&hide=stars" />
-  </p>
-<br>
+</p>
+<br />
 
 
 ### Languages and Tools:
@@ -30,6 +30,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 
 <br />
+<br />
 
 
 ### Recent Projects:
@@ -37,7 +38,7 @@
 - ⚡  <a href="http://ehdi.ly">*E-commerce Website*</a>
 - ⚡  <a href="http://SyncUp.netlify.com">*Social-Media Website*</a>
 - ⚡  <a href="http://Shaloof.ly">*Pharmacy Website*</a>
-
+<br />
 ### Connect with me:
 <table>
   <tbody>
@@ -53,7 +54,7 @@
   </tbody>
 </table>
 
-
+<br />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malik-altawati&show_icons=true&locale=en&layout=compact" alt="Malik-Altawati" />
 <br />
 
