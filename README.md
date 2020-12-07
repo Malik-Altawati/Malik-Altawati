@@ -16,6 +16,7 @@
 
 <br />
 
+<br>
 
 ### Languages and Tools:
 
@@ -40,6 +41,7 @@
 - ⚡  <a href="http://SyncUp.netlify.com">*Social-Media Website*</a>
 - ⚡  <a href="http://Shaloof.ly">*Pharmacy Website*</a>
 
+<br>
 ### Connect with me:
 <table>
   <tbody>
