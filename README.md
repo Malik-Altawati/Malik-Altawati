@@ -1,6 +1,7 @@
 ### Hi there, I'm Malik - aka [Rudy][website] 👋
 
 [![Website](https://img.shields.io/website?label=malik.codes&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://malik.codes)
+![Profile views](https://gpvc.arturio.dev/malik-altawati)
 
 
 ## I'm a Fullstack Web Developer!!
