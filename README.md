@@ -1,5 +1,5 @@
 ### Hi there, I'm Malik - aka [Rudy][website] 👋 ![Profile views](https://gpvc.arturio.dev/malik-altawati)
-
+![Freelance Software Developer](https://www.buttcoinfoundation.org/wp-content/uploads/2014/12/Cool-Guy-With-Glasses-Got-Swag.gif)
 
 ## I'm a Fullstack Web Developer!!
 
