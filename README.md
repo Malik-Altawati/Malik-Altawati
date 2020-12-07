@@ -41,10 +41,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 
 
-<br />
-<br />
-##  Languages & Frameworks Activity 
-<img src="https://wakatime.com/share/@Malik-Altawati/6e11e3d0-81d6-4625-9988-25b5b4a168d6.svg" width="500" alt="stats"/>
 
 
 <br />
