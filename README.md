@@ -15,24 +15,7 @@
 <hr>
 
 <br />
-<br />
 
-### Connect with me:
-<table>
-  <tbody>
-    <tr>
-      <th>Social Media</th>
-      <td>
-        <a href="https://www.linkedin.com/in/malik-altawati/" target="_blank">
-          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='50'>
-        </a>
-      </td>
-      <td><a href="https://www.fb.com/malek.2k16" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Youtube" height="50"></a></td>
-    </tr>
-  </tbody>
-</table>
-
-<br />
 
 ### Languages and Tools:
 
@@ -51,12 +34,28 @@
 <br />
 
 
-### Recent Projects!
+### Recent Projects:
 
 - ⚡  <a href="http://ehdi.ly">*E-commerce Website*</a>
 - ⚡  <a href="http://SyncUp.netlify.com">*Social-Media Website*</a>
 - ⚡  <a href="http://Shaloof.ly">*Pharmacy Website*</a>
 
+### Connect with me:
+<table>
+  <tbody>
+    <tr>
+      <th>Social Media</th>
+      <td>
+        <a href="https://www.linkedin.com/in/malik-altawati/" target="_blank">
+          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='50'>
+        </a>
+      </td>
+      <td><a href="https://www.fb.com/malek.2k16" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Youtube" height="50"></a></td>
+    </tr>
+  </tbody>
+</table>
+
+<br />
 
 
 
