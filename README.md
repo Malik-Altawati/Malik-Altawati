@@ -32,7 +32,6 @@
     </tr>
   </tbody>
 </table>
-<iframe src="http://malik.codes" style="height:200px;width:300px;" title="Personal Website"></iframe>
 
 
 
