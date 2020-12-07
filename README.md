@@ -9,8 +9,8 @@
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=malik-altawati&" alt="malik-altawati" />
 <hr>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malik-altawati&show_icons=true&locale=en&layout=compact" alt="Malik-Altawati" />
-<br />
+<img align="left" alt="Malik Altawati's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Malik-Altawati&show_icons=true&hide_border=true&count_private=true&theme=radical&hide=stars" />
+<br>
 
 
 ### Languages and Tools:
@@ -51,7 +51,9 @@
   </tbody>
 </table>
 
-<img align="left" alt="Malik Altawati's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Malik-Altawati&show_icons=true&hide_border=true&count_private=true&theme=radical&hide=stars" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malik-altawati&show_icons=true&locale=en&layout=compact" alt="Malik-Altawati" />
+<br />
 
 
 
