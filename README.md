@@ -7,6 +7,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love food / drinks
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malik-altawati&show_icons=true&locale=en&layout=compact" alt="Malik-Altawati" />
 
 ### Recent Projects:
 - ⚡  <a href="http://ehdi.ly">*E-commerce Website*</a>
@@ -45,7 +46,7 @@
 </table>
 
 <br />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malik-altawati&show_icons=true&locale=en&layout=compact" alt="Malik-Altawati" />
+
 <br />
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=malik-altawati&" alt="malik-altawati" />
