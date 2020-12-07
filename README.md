@@ -1,7 +1,8 @@
 ### Hi there, I'm Malik - aka [Rudy][website] 👋 ![Profile views](https://gpvc.arturio.dev/malik-altawati)
-</ br>
 
-(https://ipfind.co/?ip=165.16.21.190&auth=a38def9d-b23b-4b8f-81e6-c33e03516d63)
+
+### Hi there, I'm Malik - aka [Rudy][website] 👋 ![Profile views](https://ipfind.co/?ip=165.16.21.190&auth=a38def9d-b23b-4b8f-81e6-c33e03516d63)
+
 
 ## I'm a Fullstack Web Developer!!
 
