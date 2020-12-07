@@ -45,6 +45,15 @@
 <br />
 <br />
 
+<br />
+
+## Recent Projects!
+
+- ⚡ Ehdi.ly *E-commerce*
+- ⚡ SyncUp.netlify.com *Social-Media*
+- ⚡ Shaloof.ly *Pharmacy Website*
+
+
 
 
 [website]: https://Malik.codes
