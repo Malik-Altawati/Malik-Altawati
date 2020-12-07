@@ -18,12 +18,10 @@
         </a>
       </td>
       <td><a href="https://www.fb.com/malek.2k16" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Youtube" height="40"></a></td>
+      <td><a href="https://malik.codes" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/website.svg" alt="Website" height="40"></a></td>
     </tr>
   </tbody>
 </table>
-
-
-[<img align="left" alt="Malik.Codes" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <br />
 
