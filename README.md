@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love food / drinks
 
 <img align="left" alt="Malik Altawati's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Malik-Altawati&show_icons=true&hide_border=true&count_private=true&theme=radical&hide=stars" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ali-jalall&" alt="malik-altawati" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malik-altawati&" alt="malik-altawati" />
 
 
 ### Connect with me:
