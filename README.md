@@ -8,6 +8,12 @@
 - ⚡ Fun fact: I love food / drinks
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=malik-altawati&" alt="malik-altawati" />
+### Recent Projects:
+
+- ⚡  <a href="http://ehdi.ly">*E-commerce Website*</a>
+- ⚡  <a href="http://SyncUp.netlify.com">*Social-Media Website*</a>
+- ⚡  <a href="http://Shaloof.ly">*Pharmacy Website*</a>
+<br />
 <br />
 <p>
 <img align="left" alt="Malik Altawati's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Malik-Altawati&show_icons=true&hide_border=true&count_private=true&theme=radical&hide=stars" />
@@ -33,12 +39,7 @@
 <br />
 
 
-### Recent Projects:
 
-- ⚡  <a href="http://ehdi.ly">*E-commerce Website*</a>
-- ⚡  <a href="http://SyncUp.netlify.com">*Social-Media Website*</a>
-- ⚡  <a href="http://Shaloof.ly">*Pharmacy Website*</a>
-<br />
 ### Connect with me:
 <table>
   <tbody>
