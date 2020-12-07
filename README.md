@@ -1,8 +1,4 @@
-### Hi there, I'm Malik - aka [Rudy][website] 👋
-
-[![Website](https://img.shields.io/website?label=malik.codes&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://malik.codes)
-![Profile views](https://gpvc.arturio.dev/malik-altawati)
-
+### Hi there, I'm Malik - aka [Rudy][website] 👋 ![Profile views](https://gpvc.arturio.dev/malik-altawati)
 
 ## I'm a Fullstack Web Developer!!
 
@@ -11,14 +7,23 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love food / drinks
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Malik's Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
 ### Connect with me:
+<table>
+  <tbody>
+    <tr>
+      <th>Social Media</th>
+      <td>
+        <a href="https://www.linkedin.com/in/malik-altawati/" target="_blank">
+          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='40'>
+        </a>
+      </td>
+      <td><a href="https://www.fb.com/malek.2k16" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Youtube" height="40"></a></td>
+    </tr>
+  </tbody>
+</table>
+
 
 [<img align="left" alt="Malik.Codes" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Malik Altawati | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
