@@ -45,9 +45,9 @@
 
 ## Recent Projects!
 
-- ⚡  <a href="http://ehdi.ly">*E-commerce Website*</a>
-- ⚡ SyncUp.netlify.com *Social-Media*
-- ⚡ Shaloof.ly *Pharmacy Website*
+- ⚡  <a href="http://ehdi.ly">*E-commerce Website*</ a>
+- ⚡  <a href="http://SyncUp.netlify.com">*Social-Media Website*</a>
+- ⚡  <a href="http://Shaloof.ly">*Pharmacy Website*</a>
 
 
 
