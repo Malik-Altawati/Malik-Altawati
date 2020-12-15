@@ -18,20 +18,6 @@
 - ⚡  <a href="http://Shaloof.ly">*Pharmacy Website*</a>
 
 
-### Connect with me:
-<table>
-  <tbody>
-    <tr>
-      <th>Social Media</th>
-      <td>
-        <a href="https://www.linkedin.com/in/malik-altawati/" target="_blank">
-          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='50'>
-        </a>
-      </td>
-      <td><a href="https://www.fb.com/malek.2k16" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Youtube" height="50"></a></td>
-    </tr>
-  </tbody>
-</table>
 
 <table width="100%">
   <tr>
@@ -48,6 +34,8 @@
 
 ### Languages and Tools:
 
+<div align="center">
+
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
@@ -61,7 +49,7 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"/>][website]
 
-
+</div>
 
 
 
