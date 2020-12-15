@@ -2,6 +2,9 @@
   
 ![Freelance Software Developer](https://www.buttcoinfoundation.org/wp-content/uploads/2014/12/Cool-Guy-With-Glasses-Got-Swag.gif)
 
+[![Youtube Video](https://i.imgur.com/XgAIa6A.gif)](https://www.youtube.com/watch?v=FFLTU9eIijw)
+
+
 
 
 ## I'm a Fullstack Web Developer!!
