@@ -1,13 +1,20 @@
 ### Hi there, I'm Malik - aka [Rudy][website] 👋 ![Profile views](https://gpvc.arturio.dev/malik-altawati)
   
-  <div align="center">
+<table width="100%">
 
-  
 ![Freelance Software Developer](https://www.buttcoinfoundation.org/wp-content/uploads/2014/12/Cool-Guy-With-Glasses-Got-Swag.gif)
 
 [![Youtube Video](https://media.tenor.com/images/9455469fac43e071a50ac67809d9c318/tenor.gif)](https://www.youtube.com/watch?v=wnedkVrgFF0)
 
-</div>
+  <tr>
+    <td width="60%">
+      ![Freelance Software Developer](https://www.buttcoinfoundation.org/wp-content/uploads/2014/12/Cool-Guy-With-Glasses-Got-Swag.gif)
+    </td>
+    <td width="40%">
+      [![Youtube Video](https://media.tenor.com/images/9455469fac43e071a50ac67809d9c318/tenor.gif)](https://www.youtube.com/watch?v=wnedkVrgFF0)
+    </td>
+  </tr>
+</table>
 
 
 ## I'm a Fullstack Web Developer!!
