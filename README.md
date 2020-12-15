@@ -33,6 +33,17 @@
   </tbody>
 </table>
 
+<table width="100%">
+  <tr>
+    <td width="60%">
+      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malik-altawati&show_icons=true&hide_border=true&count_private=true&theme=dracula" alt="#em" /></p>
+    </td>
+    <td width="40%">
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malik-altawati&layout=compact&show_icons=true&hide_border=true&theme=dracula" alt="#em" /></p>
+    </td>
+  </tr>
+</table>
+
 
 
 ### Languages and Tools:
