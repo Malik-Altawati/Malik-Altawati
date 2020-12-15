@@ -2,7 +2,7 @@
   
 ![Freelance Software Developer](https://www.buttcoinfoundation.org/wp-content/uploads/2014/12/Cool-Guy-With-Glasses-Got-Swag.gif)
 
-[![Youtube Video](https://i.gifer.com/VjFQ.gif)](https://www.youtube.com/watch?v=wnedkVrgFF0)
+[![Youtube Video](https://media.tenor.com/images/9455469fac43e071a50ac67809d9c318/tenor.gif)](https://www.youtube.com/watch?v=wnedkVrgFF0)
 
 
 
