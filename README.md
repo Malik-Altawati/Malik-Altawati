@@ -40,7 +40,7 @@
 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  <img src="https://devicon.dev/devicon.git/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-plain.svg" alt="bootstrap" width="40" height="40"/>
 
