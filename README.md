@@ -36,10 +36,10 @@
 <table width="100%">
   <tr>
     <td width="60%">
-      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malik-altawati&show_icons=true&hide_border=true&count_private=true&theme=dracula" alt="#em" /></p>
+      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malik-altawati&show_icons=true&hide_border=true&count_private=true" alt="#em" /></p>
     </td>
     <td width="40%">
-      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malik-altawati&layout=compact&show_icons=true&hide_border=true&theme=dracula" alt="#em" /></p>
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malik-altawati&layout=compact&show_icons=true&hide_border=true" alt="#em" /></p>
     </td>
   </tr>
 </table>
@@ -62,15 +62,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"/>][website]
 
 
-
-<br />
-
-<br />
-
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=malik-altawati&" alt="malik-altawati" />
-<br />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malik-altawati&show_icons=true&locale=en&layout=compact" alt="Malik-Altawati" />
-<br />
 
 
 
