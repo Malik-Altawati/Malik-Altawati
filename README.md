@@ -20,6 +20,10 @@
 - ⚡  <a href="http://ehdi.ly">*E-commerce Website*</a>
 - ⚡  <a href="http://SyncUp.netlify.com">*Social-Media Website*</a>
 - ⚡  <a href="http://Shaloof.ly">*Pharmacy Website*</a>
+- ⚡  <a href="https://drive.google.com/file/u/2/d/1qiwD8dinwF5DL1gYgtoUAtokTHXfqIzi/view?usp=sharing">*Food cross platform delivery app (Android - IOS) + dashboard (website)*</a>
+- ⚡  <a href="https://drive.google.com/file/u/2/d/1IKnZ0dYuxLGM6o1BXjn6578RdrP3kEyN/view?usp=sharing">*Contacts lookup app (Android - IOS)*</a>
+- ⚡  <a href="https://drive.google.com/file/u/2/d/1Cm6iX0LsB8sVLOpyWjJGAR13BBJ6v7dL/view?usp=sharing">*Quran Audio Player app (Android - IOS)*</a>
+
 
 
 
