@@ -26,8 +26,6 @@
 - ⚡  <a href="https://rudyserve.herokuapp.com/">*A Complete BackEnd  API*</a>
 
 
-https://rudyserve.herokuapp.com/
-
 
 <table width="100%">
   <tr>
