@@ -1,6 +1,11 @@
 ### Hi there, I'm Malik - AKA [Rudy][website] 👋 ![Profile views](https://gpvc.arturio.dev/malik-altawati)
   
-![patroin](https://i1.wp.com/mikewebbermedia.com/wp-content/uploads/2020/08/patreon-banner-519x200-1.png?w=519&ssl=1)
+  <div align="center">
+  <a href="https://www.patreon.com/altawati">
+      <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="patroin" width="40" height="40"/>
+  </a>
+   </div>
+
 
 ![Freelance Software Developer](https://www.buttcoinfoundation.org/wp-content/uploads/2014/12/Cool-Guy-With-Glasses-Got-Swag.gif)
 
