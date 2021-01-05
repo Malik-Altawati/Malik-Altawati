@@ -15,6 +15,8 @@
 
 
 ### Recent Projects:
+
+- ⚡  <a href="https://wazapp.herokuapp.com/">*Video Meeting Website*</a>
 - ⚡  <a href="http://ehdi.ly">*E-commerce Website*</a>
 - ⚡  <a href="http://SyncUp.netlify.com">*Social-Media Website*</a>
 - ⚡  <a href="http://Shaloof.ly">*Pharmacy Website*</a>
