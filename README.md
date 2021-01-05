@@ -1,23 +1,6 @@
 ### Hi there, I'm Malik - AKA [Rudy][website] 👋 ![Profile views](https://gpvc.arturio.dev/malik-altawati)
   
-
-![patroin](https://i1.wp.com/mikewebbermedia.com/wp-content/uploads/2020/08/patreon-banner-519x200-1.png?w=519&ssl=1)
-
-<h2><a href="https://www.patreon.com/altawati">Link to Support @ Patroin</a></h2>
-
-
-
-
-## I'm a Fullstack Web Developer!!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love food / drinks
-
-
-
-### Recent Projects:
+  ### Recent Projects:
 
 - ⚡  <a href="https://wazapp.herokuapp.com/">*Video Meeting Website*</a>
 - ⚡  <a href="http://ehdi.ly">*E-commerce Website*</a>
@@ -30,6 +13,8 @@
 ### Under Construction:
 - ⚡  <a href="https://rudyserve.herokuapp.com/">*A Complete BackEnd  API*</a>
 
+<h2><a href="https://www.patreon.com/altawati">Link to Support @ Patroin</a></h2>
+![patroin](https://i1.wp.com/mikewebbermedia.com/wp-content/uploads/2020/08/patreon-banner-519x200-1.png?w=519&ssl=1)
 
 
 <table width="100%">
