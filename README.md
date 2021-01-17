@@ -1,7 +1,7 @@
 ### Hi there, I'm Malik - AKA [Rudy][website] 👋 ![Profile views](https://gpvc.arturio.dev/malik-altawati)
   
   ### Recent Projects:
-
+- ⚡  <a href="https://lets-talk-fam.web.app/">*Real Time Chatting Website*</a>
 - ⚡  <a href="https://wazapp.herokuapp.com/">*Video Meeting Website*</a>
 - ⚡  <a href="http://ehdi.ly">*E-commerce Website*</a>
 - ⚡  <a href="http://SyncUp.netlify.com">*Social-Media Website*</a>
