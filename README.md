@@ -1,10 +1,12 @@
 ### Hi there, I'm Malik - AKA [Rudy][website] 👋 ![Profile views](https://gpvc.arturio.dev/malik-altawati)
   
   ### Recent Projects:
-- ⚡  <a href="https://lets-talk-fam.web.app/">*Real Time Chatting Website*</a>
+- ⚡  <a href="https://vigo.ly/">*Cafe Website*</a>
+- ⚡  <a href="https://wafagroup.ly/">*Private Company Web Appication*</a>
+- ⚡  <a href="https://lets-talk-fam.web.app/">*Real Time Chatting Web Application*</a>
 - ⚡  <a href="https://wazapp.herokuapp.com/">*Video Meeting Website*</a>
-- ⚡  <a href="http://ehdi.ly">*E-commerce Website*</a>
-- ⚡  <a href="http://SyncUp.netlify.com">*Social-Media Website*</a>
+- ⚡  <a href="http://ehdi.ly">*E-commerce Web Application*</a>
+- ⚡  <a href="http://SyncUp.netlify.com">*Social-Media Web Application*</a>
 - ⚡  <a href="http://Shaloof.ly">*Pharmacy Website*</a>
 - ⚡  <a href="https://drive.google.com/file/u/2/d/1qiwD8dinwF5DL1gYgtoUAtokTHXfqIzi/view?usp=sharing">*Food cross platform delivery app (Android - IOS) + dashboard (website)*</a>
 - ⚡  <a href="https://drive.google.com/file/u/2/d/1IKnZ0dYuxLGM6o1BXjn6578RdrP3kEyN/view?usp=sharing">*Contacts lookup app (Android - IOS)*</a>
