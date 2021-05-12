@@ -2,7 +2,7 @@
   
   ### Recent Projects:
 - ⚡  <a href="https://vigo.ly/">*Cafe Website*</a>
-- ⚡  <a href="https://wafagroup.ly/">*Private Company Web Appication*</a>
+- ⚡  <a href="http://wafagroup.ly/">*Private Company Web Appication*</a>
 - ⚡  <a href="https://lets-talk-fam.web.app/">*Real Time Chatting Web Application*</a>
 - ⚡  <a href="https://wazapp.herokuapp.com/">*Video Meeting Website*</a>
 - ⚡  <a href="http://ehdi.ly">*E-commerce Web Application*</a>
